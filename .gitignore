@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IntelliJ/VS Code settings
+.idea/
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build folders
+bin/
+target/
+out/
+
+# Ignore JARs (optional)
+*.jar
